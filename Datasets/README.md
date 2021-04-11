@@ -1,4 +1,4 @@
-We got our data using twitter api to retrive tweets from the time frame we want to.
+We got our data using Twitter API to retrieve tweets from the time frame we want to.
 
 Our Twitter api access credentials are :-
 
