@@ -7,11 +7,8 @@
 ## Results
 
 <img src='https://github.com/yash982000/CSE523-Machine-Learning-TweetifyML/blob/main/Results/TwitterSentimentalAnalysisFor%20Brand%20Improvement.gif' align='left' width='100%'>
-#
-<img src='https://github.com/yash982000/CSE523-Machine-Learning-TweetifyML/blob/main/Results/figure1.PNG' align='left' width='50%'>
-#
-<img src='https://github.com/yash982000/CSE523-Machine-Learning-TweetifyML/blob/main/Results/figure2.PNG' align='left' width='50%'>
 
+The above graphs illustrate the output of the project. The first graph here shows the tweets being classified in three norms:- positive, negative or neutral. The company here we tracked is ‘APPLE’. And, the time zone which we tracked is UTC. The values show in the next graph are +1 for positive, 0 for neutral and -1 for negative. This graph is a very interactive way to analyze the data and it shows the real-time activity of each time a tweet is captured. 
 ## References
 
 
