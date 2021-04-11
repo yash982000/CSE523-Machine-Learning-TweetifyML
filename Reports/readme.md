@@ -1,1 +1,1 @@
-Folder containes all the reports for our project
+This folder contains all the reports for our project
