@@ -9,7 +9,6 @@
 
 <img src='https://github.com/yash982000/CSE523-Machine-Learning-TweetifyML/blob/main/Results/TwitterSentimentalAnalysisFor%20Brand%20Improvement.gif' align='left' width='100%'>
 
-
 The above graphs illustrate the output of the project. The first graph here shows the tweets being classified in three norms:- positive, negative or neutral. The company here we tracked is ‘APPLE’. And, the time zone which we tracked is UTC. The values show in the next graph are +1 for positive, 0 for neutral and -1 for negative. This graph is a very interactive way to analyze the data and it shows the real-time activity of each time a tweet is captured. 
 ## References
 
@@ -23,10 +22,4 @@ The above graphs illustrate the output of the project. The first graph here show
 4] “Twitter Sentiment Analysis using Python - GeeksforGeeks,” Geeksforgeeks.org, 24-Jan-2017. [Online]. Available: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/. [Accessed: 17-Mar-2021].
 
 5] “For Academics - Sentiment140 - A Twitter Sentiment Analysis Tool,” Sentiment140.com. [Online]. Available: http://help.sentiment140.com/for-students. [Accessed: 17-Mar-2021].
-
-6] A. J. Schoubye, “Descriptions, truth value intuitions, and questions,” Linguist. Philos., vol. 32, no. 6, pp. 583–617, 2009.
-
-7] B. Pang and L. Lee, “Opinion mining and sentiment analysis,” Found. Trends® Inf. Retr., vol. 2, no. 1–2, pp. 1–135, 2008.
-
-8] M. Afham, “Twitter Sentiment Analysis using NLTK, Python,” Towards Data Science, 25-Sep-2019. [Online]. Available: https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c. [Accessed: 17-Mar-2021].
 
